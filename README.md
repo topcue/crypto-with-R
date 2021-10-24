@@ -10,7 +10,7 @@ Crypto algorithms implemented using R.
 - It can be used if necessary for data analysis(maybe..).
 
 ## Getting Started
-### Depencies
+### Dependencies
 - R packages
 
 ```R
