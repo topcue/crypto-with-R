@@ -13,9 +13,9 @@ Crypto algorithms implemented using R.
 ### Depencies
 - R packages
 
-  ```
-  install.packages("digest")
-  install.packages("openssl")
-  install.packages("sodium")
-  ```
+```R
+install.packages("digest")
+install.packages("openssl")
+install.packages("sodium")
+```
 
