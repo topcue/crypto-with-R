@@ -2,11 +2,9 @@
 ## RSA Sign
 #############################################
 
-# setwd("/Users/topcue/myR")
 rm(list=ls())
 
 # install.packages("openssl")
-
 
 #################### RSA Enc ####################
 rm(list=ls())
