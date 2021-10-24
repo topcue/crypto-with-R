@@ -2,9 +2,7 @@
 ## DH Sodium
 #############################################
 
-# setwd("/Users/topcue/myR")
 rm(list=ls())
-
 
 # install.packages("openssl")
 # install.packages("sodium")
