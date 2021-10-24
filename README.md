@@ -1,9 +1,21 @@
-# Modern Crypto w/ R
+# Crypto with R
+## Index
+  - [Overview](#overview) 
+  - [Getting Started](#getting-started)
+## About this project
+Crypto algorithms implemented using R.
 
-AES Block Cipher w/ R
+## Overview
+- **AES**, **RSA**, **DH key exchange**, and **MAC(Message Authentication Code)** were implemented using R.
+- It can be used if necessary for data analysis(maybe..).
 
-DH Key Exchange w/ R
+## Getting Started
+### Depencies
+- R packages
 
-MAC w/ R
+  ```
+  install.packages("digest")
+  install.packages("openssl")
+  install.packages("sodium")
+  ```
 
-RSA Enc and Signature w/ R
