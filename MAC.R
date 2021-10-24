@@ -3,7 +3,6 @@
 ## MAC
 #############################################
 
-# setwd("/Users/topcue/myR")
 rm(list=ls())
 
 # install.packages("digest")
